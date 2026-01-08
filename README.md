@@ -220,10 +220,3 @@ For the API Documentation, please go through - <https://github.com/bagisto/headl
 
 For detailed usage instructions, refer to the official documentation
 
-## Contributing
-
-Contributions are welcome! Follow the contribution guidelines to get started.
-
-## License
-
-Bagisto is open-sourced software licensed under the MIT license.
